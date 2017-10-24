@@ -14,7 +14,7 @@ Search algorithms can be classified based on their mechanism of searching. Linea
 
 For more information, [see](https://en.wikipedia.org/wiki/Search_algorithm)
 
-<img src="https://github.com/akshaybahadur21/Search/blob/master/search.gif">
+<img src="https://github.com/akshaybahadur21/Search/blob/master/search.gif" align=center>
 
 ```java
 
