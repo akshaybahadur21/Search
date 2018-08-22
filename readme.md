@@ -1,8 +1,11 @@
-## Searching Algorithms
+# Searching Algorithms [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Search/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps you to understand the different Searching algorithms. The sorting algorithms depicted in this code are:
 1) Linear Search
 2) Binary Search
 3) Binary Search with recursion
+
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Search/links/7)
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
